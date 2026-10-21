@@ -130,7 +130,7 @@ While implementing the algorithm we were able to understand the importance of th
 
  
 # Personal Reflections
-## Group Leader
+## Group Leader - Bessie
 I really enjoyed working on this project . My group members were very supportive and very helpful when I did not understand the coding part which am still learning.Before this project, I understood “local” versus “global” alignment abstractly. Implementing it showed me why the traceback starts at the matrix maximum rather than the corner, and why poorly matching regions get trimmed away instead of dragging down the score.The hardest part for me was handling ties between the diagonal/up/left moves, getting the traceback logic right , handling the sequencing indices and determining which data type would work best for storing the optimal alignments initially had thought a tuple could work but it was not the best idea as shown by the challenges that I faced when trying to run the program. I resolved this by revisiting the pseudocode that we had worked on with my group members and trying to read more about the steps that we were taking in the algorithm and make sense of what each step means for the program .I want to keep on practicing how to build the logic necessary for all these algorithms and also improve my coding skills.
 
 ## Member
